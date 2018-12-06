@@ -1,0 +1,22 @@
+{
+  "name": "lab-1-utility-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khakimorteza/Lab-1-Utility-Server.git"
+  },
+  "author": "mk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khakimorteza/Lab-1-Utility-Server/issues"
+  },
+  "homepage": "https://github.com/khakimorteza/Lab-1-Utility-Server#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
